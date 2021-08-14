@@ -63,7 +63,7 @@ def run_segmentation(model, source_dir, target_dir, batch_size):
     print('Segmentation complete!')
 
 
-checkpoint_path = r'..\model\final_solution_checkpoint\epoch=136-step=45620.ckpt'
+checkpoint_path = r'..\model\final_solution_checkpoint\final_submission.ckpt'
 hparams_path = r'..\model\final_solution_checkpoint\hparams.yaml'
 
 parser = argparse.ArgumentParser()
