@@ -1,8 +1,8 @@
 # SMC 2021 Challenge 3 Submission
- This repo contains our submission for Smoky Mountains Data Challenge 2021 - Challenge 3, where we perform semantic segmentation on a cross-domain dataset with simulated and live
+ This repo contains our submission for [Smoky Mountains Data Challenge 2021 - Challenge 3](https://smc-datachallenge.ornl.gov/data-challenges-2021/), where we perform semantic segmentation on a cross-domain dataset with simulated and live
  images.
  
-Our model is based on TransUNet (https://github.com/Beckschen/TransUNet) and has been adapted for use with the challenge's dataset
+Our model is based on [TransUNet](https://github.com/Beckschen/TransUNet) and has been adapted for use with the challenge's dataset.
 
 ## Instructions
 1. Ensure required packages are installed (requirements.txt)
